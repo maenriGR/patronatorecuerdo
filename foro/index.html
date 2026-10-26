@@ -1,0 +1,305 @@
+<html> <!-- D:06-index /R:OCC 25/05/03 -->
+<head>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>!!--CAMPO:foro-nombre--!</title>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+window.status="Cargando Foro - Espere por favor...";
+//-->
+</script>
+
+<style type="text/css">
+BODY {
+color: #000000;
+background-color: #FFFFFF;
+margin-top: 30px;
+margin-bottom: 15px;
+margin-left: 10px;
+margin-right: 10px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+A:hover {color: #0000FF}
+A:link, A:visited, A:active {
+color: #002090;
+text-decoration: none;
+}
+INPUT.bot {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 7.5pt;
+}
+.titulo {
+font-size: 18px;
+color: #FFFFFF;
+padding-left: 15px;
+vertical-align: middle;
+}
+.descrip {
+font-size: 13px;
+}
+TD.menu1, A.menu1 {
+font-size: 8pt;
+}
+TD.menu2, A.menu2 {
+font-size: 8pt;
+color: #FFFFFF;
+}
+TD.campos, TD.datos, A.datos {
+font-size: 13px;
+}
+TD.menu3, A.menu3 {
+font-size: 13px;
+color: #FFFFFF;
+}
+TD.sesion {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 10px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div align="center">
+<table width="100%" cellspacing="3" cellpadding="3" border="0">
+		<tr>
+		 <td align="left" bgcolor="#002090">
+		  <table width="100%" cellspacing="0" cellpadding="0" border="0">
+				<tr>
+				 <td width="48">
+				  <img src="http://images.melodysoft.com/firmas.gif" height="48" width="48" border="0">
+				 </td>
+				 <td valign="middle" class="titulo">
+				  <b>!!--CAMPO:foro-nombre--!</b>
+				 </td>
+				</tr>
+		  </table>
+		 </td>
+		</tr>
+		<tr>
+		 <td align="left" bgcolor="#efefef" class="descrip">
+		  !!--CAMPO:foro-descripcion--!
+		 </td>
+		</tr>
+</table>
+<br>
+</div>
+
+<div align="center">
+		<br>
+		!!--BANNER_AREA--!
+		<br>
+
+		%!!DISABLEBAR:
+		<table width="100%" cellspacing="3" cellpadding="3" border="0">
+				<tr>
+				 <td align="left" valign="middle" bgcolor="#002090">
+
+				  <form method="get" action="!!--CAMPO:APPURL--!">
+				  !!--HIDDENDATA_CHPARMS_AREA--!
+				  <table width="100%" cellspacing="0" cellpadding="0" border="0">
+						<tr>
+						 <td align="left">
+						  <table border="0" cellspacing="0" cellpadding="0">
+								<tr>
+								 <td align="right" class="menu2">
+								  <b>&nbsp;&nbsp;&nbsp;&nbsp;Mostrar&nbsp;&Uacute;ltimos&nbsp;</b>
+								  !!--MAXMSGS_AREA--!
+								 </td>
+								 <td align="right" class="menu2">
+								  <b>&nbsp; &nbsp; Ordenado por&nbsp;</b>
+								  !!--ORDERBY_AREA--!
+								 </td>
+								</tr>
+						  </table>
+						 </td>
+						 <td align="right" colspan="3" valign="bottom">
+						  <input type="submit" value=" Aplicar " class="bot">
+						  &nbsp;
+						 </td>
+						</tr>
+				  </table>
+
+				 </td>
+				</tr>
+		</table>
+		<table width="100%" cellspacing="3" cellpadding="3" border="0">
+				<tr>
+				 <td align="left" valign="middle" bgcolor="#efefef" class="sesion">
+				  Conectado&nbsp;desde&nbsp;!!--CAMPO:USERHOST--! ( !!--CAMPO:USERIP--! )<br>
+				  Sesiones&nbsp;activas&nbsp;en&nbsp;este&nbsp;foro&nbsp;!!--CAMPO:FOROSESSIONS--!<br>
+				  Sesiones&nbsp;activas&nbsp;en&nbsp;el&nbsp;total&nbsp;de&nbsp;foros&nbsp;!!--CAMPO:TOTALSESSIONS--!<br>
+				 </td>
+				 <td align="center" valign="bottom" bgcolor="#efefef" class="menu1">
+				  <a href="!!--CAMPO:URL--!">
+				   <img src="http://images.melodysoft.com/reload.gif" height="28" width="28" border="0">
+				   <br>
+				   <b>Recargar</b>
+				  </a>
+				 </td>
+				 <td align="center" valign="bottom" bgcolor="#efefef" class="menu1">
+				  <a href="!!--CAMPO:ADDURL--!">
+				   <img src="http://images.melodysoft.com/addmsg.gif" height="28" width="28" border="0">
+				   <br>
+				   <b>Añadir Mensaje</b>
+				  </a>
+				 </td>
+				 <td align="center" valign="bottom" bgcolor="#efefef" class="menu1">
+				  <a href="http://www.melodysoft.com/panel/" target="_blank">
+				   <img src="http://images.melodysoft.com/admin.gif" height="28" width="28" border="0">
+				   <br>
+				   <b>Administrar</b>
+				  </a>
+				 </td>
+				 <td align="center" valign="bottom" bgcolor="#efefef" class="menu1">
+				  <a href="http://www.melodysoft.com" target="_blank">
+				   <b>Melodysoft</b>
+				  </a>
+				 </td>
+				</tr>
+		</table>
+				</form> <!-- bug MSIE -->
+		!!%
+
+<!--
+%!!CUSTOMMSG:
+<tr><td bgcolor="#efefef">
+ <table cellspacing="3" cellpadding="3" border="0"><tr>
+<td align="left" class="datos">
+<a href="!!--CAMPO:MSGURL--!"><b>!!--CAMPO:subject--!</b></a>
+</td></tr></table>
+</td><td bgcolor="#e3e3e3" align="right" class="datos">
+<a href="mailto:!!--CAMPO:email--!"><b>!!--CAMPO:nombre--!</b></a>
+</td><td bgcolor="#efefef" align="right" class="datos">
+!!--CAMPO:date--!&nbsp;!!--CAMPO:time--!
+</td>
+<td bgcolor="#e3e3e3" align="center" class="datos">
+!!--CAMPO:NUMTOTALREPLIES--!
+</td></tr>
+!!%
+-->
+
+!!--CAMPO:NOREPLIES--!
+!!--ERROR_AREA--!
+
+<br>
+<table width="100%" cellspacing="3" cellpadding="3" border="0">
+		<tr>
+		 <td bgcolor="#002090" align="center" width="70%" class="menu3">
+		  <b>Asunto</b>
+		 </td>
+		 <td bgcolor="#002090" align="center" class="menu3">
+		  <b>Autor</b>
+		 </td>
+		 <td bgcolor="#002090" align="center" class="menu3">
+		  <b>Fecha</b>
+		 </td>
+		 <td bgcolor="#002090" align="center" class="menu3">
+		  <b>Resp</b>
+		 </td>
+		</tr>
+
+<!--MSGS_AREA-->
+
+</table>
+</div>
+
+<br>
+<div align="center">
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+		<tr>
+		 <td bgcolor="#efefef" align="center" class="datos">
+		  !!--CAMPO:PAGECONTROL--!
+		 </td>
+		</tr>
+</table>
+<br><br>
+<a href="!!--CAMPO:URL--!" class="menu1">
+		<img src="http://images.melodysoft.com/reload.gif" height="28" width="28" border="0">
+		<br>
+		<b>Recargar</b>
+</a>
+</div>
+
+<a name="addmsg">&nbsp;</a>
+<div align="center">
+<table width="80%" cellspacing="3" cellpadding="3" border="0">
+		<tr>
+		 <td align="left" bgcolor="#002090" class="menu3">
+		  <b>Añadir mensaje</b>
+		 </td>
+		</tr>
+		<tr>
+		 <td align=center bgcolor="#efefef">
+		  <br><br>
+				<form method="post" action="!!--CAMPO:APPURL--!">
+				!!--HIDDENDATA_POSTMSG_AREA--!
+				<div align="center">
+				<table cellspacing="5" border="0">
+						<tr>
+						 <td align="right" class="campos">
+						  <b>Nombre</b>
+						 </td><td>
+						  <input type="text" name="nombre" size="50" value="!!--CAMPO:mi-nombre--!" maxlength="40">
+						 </td></tr><tr>
+						 <td align="right" class="campos">
+						  <b>E-Mail</b>
+						 </td><td>
+						  <input type="text" name="email" size="50" value="!!--CAMPO:mi-email--!">
+						 </td></tr><tr>
+						 <td align="right" class="campos">
+						  <b>Asunto</b>
+						 </td><td>
+						  <input type="text" name="subject" size="50" value="!!--CAMPO:mi-subject--!" maxlength="150">
+						 </td></tr><tr>
+						 <td align="right" class="campos">
+						  <b>Web</b>
+						 </td><td>
+						  <input type="text" name="link" size="50" value="!!--CAMPO:mi-link--!" maxlength="120"></td>
+						</tr><tr><td>&nbsp;</td>
+						 <td align="left" class="menu1">
+						  <input type="checkbox" name="bNotificar">
+						  <b>Notificar por e-mail respuestas.</b>
+						 </td>
+						</tr>
+				</table>
+				</div>
+				<br>
+				<b style="font-size:16px;">Mensaje</b>
+				<br>
+				<div align="center">
+						<textarea name="mensaje" wrap="virtual" cols="60" rows="10">!!--CAMPO:mi-mensaje--!</textarea>
+						<br>
+						<input type="checkbox" name="showpostedmsg" !!--campo:mi-showpostedmsg--! value="checked"> <!-- -->
+						<span style="font-size:8pt"><b>Ver mi mensaje despu&eacute;s de insertarlo</b></span>
+						<br><br><br>
+						<input type="submit" value="   Añadir   ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						<input type="reset" value="   Borrar   ">
+				</div>
+				</form>
+
+		 </td>
+		</tr>
+		<tr>
+		 <td align="center" valign="middle" bgcolor="#efefef" style="font-size:17px;">
+		  <a href="!!--CAMPO:wwwasoc--!" target="_top">
+		   <b>[Volver]</b>
+		  </a>
+		 </td>
+		</tr>
+</table>
+</div>
+
+<br><br>
+<p align="center">!!--MELODYAD_AREA--!</p>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+window.status="Foro Cargado - Gracias...";
+//-->
+</script>
+
+</body>
+</html>

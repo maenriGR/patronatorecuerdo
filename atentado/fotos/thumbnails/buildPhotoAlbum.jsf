@@ -1,0 +1,140 @@
+App.progressCountTotal = 17;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///J|/Visual Page/santona/atentado/fotos/1222086200810.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = '1222086200810.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/images/1222086200810_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/images/1222086200810_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/images/1222086200810_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222086200810_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222086200810_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222086200810_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/atentado/fotos/1222086200851.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = '1222086200851.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/images/1222086200851_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/images/1222086200851_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/images/1222086200851_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222086200851_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222086200851_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222086200851_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/atentado/fotos/1222086171211.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = '1222086171211.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/images/1222086171211_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/images/1222086171211_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/images/1222086171211_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222086171211_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222086171211_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222086171211_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/atentado/fotos/1222086170349.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = '1222086170349.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/images/1222086170349_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/images/1222086170349_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/images/1222086170349_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222086170349_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222086170349_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222086170349_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/atentado/fotos/1222086170553.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = '1222086170553.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/images/1222086170553_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/images/1222086170553_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/images/1222086170553_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222086170553_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222086170553_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222086170553_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/atentado/fotos/1222066126810.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = '1222066126810.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/images/1222066126810_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/images/1222066126810_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/images/1222066126810_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222066126810_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222066126810_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222066126810_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/atentado/fotos/1222066126851.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = '1222066126851.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/images/1222066126851_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/images/1222066126851_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/images/1222066126851_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222066126851_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222066126851_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222066126851_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/atentado/fotos/1222066126886.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = '1222066126886.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/images/1222066126886_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/images/1222066126886_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/images/1222066126886_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222066126886_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222066126886_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222066126886_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/atentado/fotos/1222065226571.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = '1222065226571.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/images/1222065226571_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/images/1222065226571_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/images/1222065226571_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222065226571_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222065226571_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222065226571_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/atentado/fotos/1222065227102.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = '1222065227102.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/images/1222065227102_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/images/1222065227102_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/images/1222065227102_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222065227102_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222065227102_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222065227102_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/atentado/fotos/1222065226849.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = '1222065226849.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/images/1222065226849_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/images/1222065226849_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/images/1222065226849_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222065226849_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222065226849_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222065226849_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/atentado/fotos/1222065229787.jpg');
+App.progressCountCurrent = 12;
+App.batchStatusString = '1222065229787.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/images/1222065229787_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/images/1222065229787_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/images/1222065229787_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222065229787_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222065229787_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222065229787_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/atentado/fotos/1222062823824.jpg');
+App.progressCountCurrent = 13;
+App.batchStatusString = '1222062823824.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/images/1222062823824_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/images/1222062823824_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/images/1222062823824_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222062823824_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222062823824_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222062823824_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/atentado/fotos/1222060782056.jpg');
+App.progressCountCurrent = 14;
+App.batchStatusString = '1222060782056.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/images/1222060782056_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/images/1222060782056_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/images/1222060782056_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222060782056_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222060782056_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222060782056_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/atentado/fotos/1222060781958.jpg');
+App.progressCountCurrent = 15;
+App.batchStatusString = '1222060781958.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/images/1222060781958_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/images/1222060781958_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/images/1222060781958_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222060781958_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222060781958_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222060781958_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/atentado/fotos/1222047558556.jpg');
+App.progressCountCurrent = 16;
+App.batchStatusString = '1222047558556.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/images/1222047558556_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/images/1222047558556_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/images/1222047558556_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222047558556_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222047558556_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222047558556_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/atentado/fotos/1222058979752.jpg');
+App.progressCountCurrent = 17;
+App.batchStatusString = '1222058979752.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/images/1222058979752_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/images/1222058979752_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/images/1222058979752_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222058979752_jpg.jpg') || confirm('file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222058979752_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/atentado/fotos/thumbnails/1222058979752_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

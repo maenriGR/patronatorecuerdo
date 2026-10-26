@@ -1,0 +1,476 @@
+App.progressCountTotal = 59;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/1003283_452327801530769_1424222362_n.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = '1003283_452327801530769_1424222362_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1003283_452327801530769_1424222362_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1003283_452327801530769_1424222362_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1003283_452327801530769_1424222362_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1003283_452327801530769_1424222362_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1003283_452327801530769_1424222362_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1003283_452327801530769_1424222362_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/1003293_452859228144293_184399765_n.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = '1003293_452859228144293_184399765_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1003293_452859228144293_184399765_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1003293_452859228144293_184399765_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1003293_452859228144293_184399765_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1003293_452859228144293_184399765_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1003293_452859228144293_184399765_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1003293_452859228144293_184399765_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/1003443_452868154810067_1060979384_n.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = '1003443_452868154810067_1060979384_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1003443_452868154810067_1060979384_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1003443_452868154810067_1060979384_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1003443_452868154810067_1060979384_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1003443_452868154810067_1060979384_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1003443_452868154810067_1060979384_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1003443_452868154810067_1060979384_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/1003450_10200735110732978_981380474_n.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = '1003450_10200735110732978_981380474_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1003450_10200735110732978_981380474_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1003450_10200735110732978_981380474_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1003450_10200735110732978_981380474_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1003450_10200735110732978_981380474_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1003450_10200735110732978_981380474_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1003450_10200735110732978_981380474_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/1005560_452329678197248_2020176872_n.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = '1005560_452329678197248_2020176872_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1005560_452329678197248_2020176872_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1005560_452329678197248_2020176872_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1005560_452329678197248_2020176872_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1005560_452329678197248_2020176872_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1005560_452329678197248_2020176872_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1005560_452329678197248_2020176872_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/1005860_452327481530801_1051340518_n.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = '1005860_452327481530801_1051340518_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1005860_452327481530801_1051340518_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1005860_452327481530801_1051340518_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1005860_452327481530801_1051340518_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1005860_452327481530801_1051340518_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1005860_452327481530801_1051340518_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1005860_452327481530801_1051340518_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/7149_10200953401704746_1354553182_n.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = '7149_10200953401704746_1354553182_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/7149_10200953401704746_1354553182_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/7149_10200953401704746_1354553182_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/7149_10200953401704746_1354553182_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/7149_10200953401704746_1354553182_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/7149_10200953401704746_1354553182_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/7149_10200953401704746_1354553182_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/8484_452327161530833_1550849771_n.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = '8484_452327161530833_1550849771_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/8484_452327161530833_1550849771_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/8484_452327161530833_1550849771_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/8484_452327161530833_1550849771_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/8484_452327161530833_1550849771_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/8484_452327161530833_1550849771_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/8484_452327161530833_1550849771_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/8648_452869691476580_1855807932_n.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = '8648_452869691476580_1855807932_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/8648_452869691476580_1855807932_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/8648_452869691476580_1855807932_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/8648_452869691476580_1855807932_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/8648_452869691476580_1855807932_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/8648_452869691476580_1855807932_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/8648_452869691476580_1855807932_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/8791_452327998197416_396855798_n.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = '8791_452327998197416_396855798_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/8791_452327998197416_396855798_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/8791_452327998197416_396855798_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/8791_452327998197416_396855798_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/8791_452327998197416_396855798_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/8791_452327998197416_396855798_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/8791_452327998197416_396855798_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/8801_452324264864456_1035400015_n.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = '8801_452324264864456_1035400015_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/8801_452324264864456_1035400015_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/8801_452324264864456_1035400015_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/8801_452324264864456_1035400015_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/8801_452324264864456_1035400015_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/8801_452324264864456_1035400015_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/8801_452324264864456_1035400015_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/10084_451781574918725_450535099_n.jpg');
+App.progressCountCurrent = 12;
+App.batchStatusString = '10084_451781574918725_450535099_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/10084_451781574918725_450535099_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/10084_451781574918725_450535099_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/10084_451781574918725_450535099_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/10084_451781574918725_450535099_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/10084_451781574918725_450535099_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/10084_451781574918725_450535099_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/179718_450874541676095_1666267910_n.jpg');
+App.progressCountCurrent = 13;
+App.batchStatusString = '179718_450874541676095_1666267910_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/179718_450874541676095_1666267910_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/179718_450874541676095_1666267910_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/179718_450874541676095_1666267910_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/179718_450874541676095_1666267910_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/179718_450874541676095_1666267910_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/179718_450874541676095_1666267910_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/181286_451783568251859_586246794_n.jpg');
+App.progressCountCurrent = 14;
+App.batchStatusString = '181286_451783568251859_586246794_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/181286_451783568251859_586246794_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/181286_451783568251859_586246794_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/181286_451783568251859_586246794_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/181286_451783568251859_586246794_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/181286_451783568251859_586246794_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/181286_451783568251859_586246794_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/184418_466856176721920_1719779962_n.jpg');
+App.progressCountCurrent = 15;
+App.batchStatusString = '184418_466856176721920_1719779962_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/184418_466856176721920_1719779962_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/184418_466856176721920_1719779962_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/184418_466856176721920_1719779962_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/184418_466856176721920_1719779962_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/184418_466856176721920_1719779962_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/184418_466856176721920_1719779962_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/226757_10200953400864725_1815731348_n.jpg');
+App.progressCountCurrent = 16;
+App.batchStatusString = '226757_10200953400864725_1815731348_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/226757_10200953400864725_1815731348_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/226757_10200953400864725_1815731348_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/226757_10200953400864725_1815731348_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/226757_10200953400864725_1815731348_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/226757_10200953400864725_1815731348_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/226757_10200953400864725_1815731348_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/419046_451782648251951_502246832_n.jpg');
+App.progressCountCurrent = 17;
+App.batchStatusString = '419046_451782648251951_502246832_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/419046_451782648251951_502246832_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/419046_451782648251951_502246832_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/419046_451782648251951_502246832_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/419046_451782648251951_502246832_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/419046_451782648251951_502246832_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/419046_451782648251951_502246832_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/419137_10200953401264735_975190282_n.jpg');
+App.progressCountCurrent = 18;
+App.batchStatusString = '419137_10200953401264735_975190282_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/419137_10200953401264735_975190282_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/419137_10200953401264735_975190282_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/419137_10200953401264735_975190282_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/419137_10200953401264735_975190282_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/419137_10200953401264735_975190282_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/419137_10200953401264735_975190282_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/419162_452862864810596_1340367727_n.jpg');
+App.progressCountCurrent = 19;
+App.batchStatusString = '419162_452862864810596_1340367727_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/419162_452862864810596_1340367727_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/419162_452862864810596_1340367727_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/419162_452862864810596_1340367727_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/419162_452862864810596_1340367727_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/419162_452862864810596_1340367727_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/419162_452862864810596_1340367727_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/425271_452868264810056_695056649_n.jpg');
+App.progressCountCurrent = 20;
+App.batchStatusString = '425271_452868264810056_695056649_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/425271_452868264810056_695056649_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/425271_452868264810056_695056649_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/425271_452868264810056_695056649_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/425271_452868264810056_695056649_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/425271_452868264810056_695056649_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/425271_452868264810056_695056649_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/425313_452329774863905_1494890346_n.jpg');
+App.progressCountCurrent = 21;
+App.batchStatusString = '425313_452329774863905_1494890346_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/425313_452329774863905_1494890346_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/425313_452329774863905_1494890346_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/425313_452329774863905_1494890346_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/425313_452329774863905_1494890346_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/425313_452329774863905_1494890346_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/425313_452329774863905_1494890346_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/485893_10200963760243703_819741693_n.jpg');
+App.progressCountCurrent = 22;
+App.batchStatusString = '485893_10200963760243703_819741693_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/485893_10200963760243703_819741693_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/485893_10200963760243703_819741693_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/485893_10200963760243703_819741693_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/485893_10200963760243703_819741693_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/485893_10200963760243703_819741693_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/485893_10200963760243703_819741693_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/580720_10200963758563661_1244245911_n.jpg');
+App.progressCountCurrent = 23;
+App.batchStatusString = '580720_10200963758563661_1244245911_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/580720_10200963758563661_1244245911_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/580720_10200963758563661_1244245911_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/580720_10200963758563661_1244245911_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/580720_10200963758563661_1244245911_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/580720_10200963758563661_1244245911_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/580720_10200963758563661_1244245911_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/600312_452865561476993_1179894437_n.jpg');
+App.progressCountCurrent = 24;
+App.batchStatusString = '600312_452865561476993_1179894437_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/600312_452865561476993_1179894437_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/600312_452865561476993_1179894437_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/600312_452865561476993_1179894437_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/600312_452865561476993_1179894437_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/600312_452865561476993_1179894437_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/600312_452865561476993_1179894437_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/600958_452323741531175_655578570_n.jpg');
+App.progressCountCurrent = 25;
+App.batchStatusString = '600958_452323741531175_655578570_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/600958_452323741531175_655578570_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/600958_452323741531175_655578570_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/600958_452323741531175_655578570_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/600958_452323741531175_655578570_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/600958_452323741531175_655578570_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/600958_452323741531175_655578570_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/600958_452323978197818_1811208660_n.jpg');
+App.progressCountCurrent = 26;
+App.batchStatusString = '600958_452323978197818_1811208660_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/600958_452323978197818_1811208660_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/600958_452323978197818_1811208660_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/600958_452323978197818_1811208660_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/600958_452323978197818_1811208660_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/600958_452323978197818_1811208660_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/600958_452323978197818_1811208660_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/601931_452329948197221_574228457_n.jpg');
+App.progressCountCurrent = 27;
+App.batchStatusString = '601931_452329948197221_574228457_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/601931_452329948197221_574228457_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/601931_452329948197221_574228457_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/601931_452329948197221_574228457_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/601931_452329948197221_574228457_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/601931_452329948197221_574228457_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/601931_452329948197221_574228457_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/602374_451783334918549_1132518108_n.jpg');
+App.progressCountCurrent = 28;
+App.batchStatusString = '602374_451783334918549_1132518108_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/602374_451783334918549_1132518108_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/602374_451783334918549_1132518108_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/602374_451783334918549_1132518108_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/602374_451783334918549_1132518108_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/602374_451783334918549_1132518108_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/602374_451783334918549_1132518108_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/923268_450875345009348_1439955983_n.jpg');
+App.progressCountCurrent = 29;
+App.batchStatusString = '923268_450875345009348_1439955983_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/923268_450875345009348_1439955983_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/923268_450875345009348_1439955983_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/923268_450875345009348_1439955983_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/923268_450875345009348_1439955983_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/923268_450875345009348_1439955983_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/923268_450875345009348_1439955983_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/935354_10200953404584818_883373880_n.jpg');
+App.progressCountCurrent = 30;
+App.batchStatusString = '935354_10200953404584818_883373880_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/935354_10200953404584818_883373880_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/935354_10200953404584818_883373880_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/935354_10200953404584818_883373880_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/935354_10200953404584818_883373880_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/935354_10200953404584818_883373880_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/935354_10200953404584818_883373880_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/935765_451780121585537_1318331716_n.jpg');
+App.progressCountCurrent = 31;
+App.batchStatusString = '935765_451780121585537_1318331716_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/935765_451780121585537_1318331716_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/935765_451780121585537_1318331716_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/935765_451780121585537_1318331716_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/935765_451780121585537_1318331716_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/935765_451780121585537_1318331716_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/935765_451780121585537_1318331716_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/935964_467048886702649_35565874_n.jpg');
+App.progressCountCurrent = 32;
+App.batchStatusString = '935964_467048886702649_35565874_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/935964_467048886702649_35565874_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/935964_467048886702649_35565874_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/935964_467048886702649_35565874_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/935964_467048886702649_35565874_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/935964_467048886702649_35565874_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/935964_467048886702649_35565874_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/941558_452865991476950_1238857832_n.jpg');
+App.progressCountCurrent = 33;
+App.batchStatusString = '941558_452865991476950_1238857832_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/941558_452865991476950_1238857832_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/941558_452865991476950_1238857832_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/941558_452865991476950_1238857832_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/941558_452865991476950_1238857832_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/941558_452865991476950_1238857832_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/941558_452865991476950_1238857832_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/941980_451780508252165_1998359003_n.jpg');
+App.progressCountCurrent = 34;
+App.batchStatusString = '941980_451780508252165_1998359003_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/941980_451780508252165_1998359003_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/941980_451780508252165_1998359003_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/941980_451780508252165_1998359003_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/941980_451780508252165_1998359003_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/941980_451780508252165_1998359003_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/941980_451780508252165_1998359003_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/944111_452865494810333_2004420430_n.jpg');
+App.progressCountCurrent = 35;
+App.batchStatusString = '944111_452865494810333_2004420430_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/944111_452865494810333_2004420430_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/944111_452865494810333_2004420430_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/944111_452865494810333_2004420430_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/944111_452865494810333_2004420430_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/944111_452865494810333_2004420430_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/944111_452865494810333_2004420430_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/944663_450375158392700_1402610387_n.jpg');
+App.progressCountCurrent = 36;
+App.batchStatusString = '944663_450375158392700_1402610387_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/944663_450375158392700_1402610387_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/944663_450375158392700_1402610387_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/944663_450375158392700_1402610387_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/944663_450375158392700_1402610387_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/944663_450375158392700_1402610387_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/944663_450375158392700_1402610387_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/945519_452861598144056_1575374919_n.jpg');
+App.progressCountCurrent = 37;
+App.batchStatusString = '945519_452861598144056_1575374919_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/945519_452861598144056_1575374919_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/945519_452861598144056_1575374919_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/945519_452861598144056_1575374919_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/945519_452861598144056_1575374919_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/945519_452861598144056_1575374919_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/945519_452861598144056_1575374919_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/945639_452870061476543_42063196_n.jpg');
+App.progressCountCurrent = 38;
+App.batchStatusString = '945639_452870061476543_42063196_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/945639_452870061476543_42063196_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/945639_452870061476543_42063196_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/945639_452870061476543_42063196_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/945639_452870061476543_42063196_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/945639_452870061476543_42063196_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/945639_452870061476543_42063196_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/945861_10200963647680889_762304503_n.jpg');
+App.progressCountCurrent = 39;
+App.batchStatusString = '945861_10200963647680889_762304503_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/945861_10200963647680889_762304503_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/945861_10200963647680889_762304503_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/945861_10200963647680889_762304503_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/945861_10200963647680889_762304503_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/945861_10200963647680889_762304503_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/945861_10200963647680889_762304503_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/946423_452326094864273_422833883_n.jpg');
+App.progressCountCurrent = 40;
+App.batchStatusString = '946423_452326094864273_422833883_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/946423_452326094864273_422833883_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/946423_452326094864273_422833883_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/946423_452326094864273_422833883_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/946423_452326094864273_422833883_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/946423_452326094864273_422833883_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/946423_452326094864273_422833883_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/946424_452862991477250_803927318_n.jpg');
+App.progressCountCurrent = 41;
+App.batchStatusString = '946424_452862991477250_803927318_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/946424_452862991477250_803927318_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/946424_452862991477250_803927318_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/946424_452862991477250_803927318_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/946424_452862991477250_803927318_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/946424_452862991477250_803927318_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/946424_452862991477250_803927318_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/969059_451780321585517_1614124793_n.jpg');
+App.progressCountCurrent = 42;
+App.batchStatusString = '969059_451780321585517_1614124793_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/969059_451780321585517_1614124793_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/969059_451780321585517_1614124793_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/969059_451780321585517_1614124793_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/969059_451780321585517_1614124793_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/969059_451780321585517_1614124793_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/969059_451780321585517_1614124793_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/969085_309354625864865_1648105783_n.jpg');
+App.progressCountCurrent = 43;
+App.batchStatusString = '969085_309354625864865_1648105783_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/969085_309354625864865_1648105783_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/969085_309354625864865_1648105783_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/969085_309354625864865_1648105783_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/969085_309354625864865_1648105783_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/969085_309354625864865_1648105783_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/969085_309354625864865_1648105783_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/969529_450859281677621_2105381492_n.jpg');
+App.progressCountCurrent = 44;
+App.batchStatusString = '969529_450859281677621_2105381492_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/969529_450859281677621_2105381492_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/969529_450859281677621_2105381492_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/969529_450859281677621_2105381492_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/969529_450859281677621_2105381492_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/969529_450859281677621_2105381492_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/969529_450859281677621_2105381492_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/971085_452870251476524_907526644_n.jpg');
+App.progressCountCurrent = 45;
+App.batchStatusString = '971085_452870251476524_907526644_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/971085_452870251476524_907526644_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/971085_452870251476524_907526644_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/971085_452870251476524_907526644_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/971085_452870251476524_907526644_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/971085_452870251476524_907526644_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/971085_452870251476524_907526644_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/971125_449799788450237_2088667868_n.jpg');
+App.progressCountCurrent = 46;
+App.batchStatusString = '971125_449799788450237_2088667868_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/971125_449799788450237_2088667868_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/971125_449799788450237_2088667868_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/971125_449799788450237_2088667868_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/971125_449799788450237_2088667868_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/971125_449799788450237_2088667868_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/971125_449799788450237_2088667868_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/971756_452324124864470_1789959614_n.jpg');
+App.progressCountCurrent = 47;
+App.batchStatusString = '971756_452324124864470_1789959614_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/971756_452324124864470_1789959614_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/971756_452324124864470_1789959614_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/971756_452324124864470_1789959614_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/971756_452324124864470_1789959614_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/971756_452324124864470_1789959614_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/971756_452324124864470_1789959614_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/971773_452861168144099_1286520786_n.jpg');
+App.progressCountCurrent = 48;
+App.batchStatusString = '971773_452861168144099_1286520786_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/971773_452861168144099_1286520786_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/971773_452861168144099_1286520786_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/971773_452861168144099_1286520786_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/971773_452861168144099_1286520786_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/971773_452861168144099_1286520786_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/971773_452861168144099_1286520786_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/972272_451779838252232_1301222520_n.jpg');
+App.progressCountCurrent = 49;
+App.batchStatusString = '972272_451779838252232_1301222520_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/972272_451779838252232_1301222520_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/972272_451779838252232_1301222520_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/972272_451779838252232_1301222520_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/972272_451779838252232_1301222520_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/972272_451779838252232_1301222520_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/972272_451779838252232_1301222520_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/996161_452859364810946_490897398_n.jpg');
+App.progressCountCurrent = 50;
+App.batchStatusString = '996161_452859364810946_490897398_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/996161_452859364810946_490897398_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/996161_452859364810946_490897398_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/996161_452859364810946_490897398_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/996161_452859364810946_490897398_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/996161_452859364810946_490897398_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/996161_452859364810946_490897398_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/998399_452325664864316_60889546_n.jpg');
+App.progressCountCurrent = 51;
+App.batchStatusString = '998399_452325664864316_60889546_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/998399_452325664864316_60889546_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/998399_452325664864316_60889546_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/998399_452325664864316_60889546_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/998399_452325664864316_60889546_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/998399_452325664864316_60889546_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/998399_452325664864316_60889546_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/1000289_452330064863876_1275412902_n.jpg');
+App.progressCountCurrent = 52;
+App.batchStatusString = '1000289_452330064863876_1275412902_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1000289_452330064863876_1275412902_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1000289_452330064863876_1275412902_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1000289_452330064863876_1275412902_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1000289_452330064863876_1275412902_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1000289_452330064863876_1275412902_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1000289_452330064863876_1275412902_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/1000427_452869898143226_2104577823_n.jpg');
+App.progressCountCurrent = 53;
+App.batchStatusString = '1000427_452869898143226_2104577823_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1000427_452869898143226_2104577823_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1000427_452869898143226_2104577823_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1000427_452869898143226_2104577823_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1000427_452869898143226_2104577823_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1000427_452869898143226_2104577823_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1000427_452869898143226_2104577823_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/1001493_452859564810926_1246681324_n.jpg');
+App.progressCountCurrent = 54;
+App.batchStatusString = '1001493_452859564810926_1246681324_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1001493_452859564810926_1246681324_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1001493_452859564810926_1246681324_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1001493_452859564810926_1246681324_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1001493_452859564810926_1246681324_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1001493_452859564810926_1246681324_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1001493_452859564810926_1246681324_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/1001650_452324664864416_500877202_n.jpg');
+App.progressCountCurrent = 55;
+App.batchStatusString = '1001650_452324664864416_500877202_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1001650_452324664864416_500877202_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1001650_452324664864416_500877202_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1001650_452324664864416_500877202_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1001650_452324664864416_500877202_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1001650_452324664864416_500877202_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1001650_452324664864416_500877202_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/1002237_452865791476970_1567845013_n.jpg');
+App.progressCountCurrent = 56;
+App.batchStatusString = '1002237_452865791476970_1567845013_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1002237_452865791476970_1567845013_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1002237_452865791476970_1567845013_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1002237_452865791476970_1567845013_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1002237_452865791476970_1567845013_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1002237_452865791476970_1567845013_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1002237_452865791476970_1567845013_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/1002393_451781914918691_1891748784_n.jpg');
+App.progressCountCurrent = 57;
+App.batchStatusString = '1002393_451781914918691_1891748784_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1002393_451781914918691_1891748784_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1002393_451781914918691_1891748784_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1002393_451781914918691_1891748784_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1002393_451781914918691_1891748784_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1002393_451781914918691_1891748784_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1002393_451781914918691_1891748784_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/1002396_451782414918641_194148974_n.jpg');
+App.progressCountCurrent = 58;
+App.batchStatusString = '1002396_451782414918641_194148974_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1002396_451782414918641_194148974_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1002396_451782414918641_194148974_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/1002396_451782414918641_194148974_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1002396_451782414918641_194148974_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1002396_451782414918641_194148974_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/1002396_451782414918641_194148974_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/943458_451782094918673_755908899_n.jpg');
+App.progressCountCurrent = 59;
+App.batchStatusString = '943458_451782094918673_755908899_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/943458_451782094918673_755908899_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/943458_451782094918673_755908899_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/images/943458_451782094918673_755908899_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/943458_451782094918673_755908899_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/943458_451782094918673_755908899_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/juncal/thumbnails/943458_451782094918673_755908899_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

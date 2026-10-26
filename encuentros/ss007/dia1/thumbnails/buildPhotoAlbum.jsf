@@ -1,0 +1,156 @@
+App.progressCountTotal = 19;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/fachada001.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'fachada001.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/fachada001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/fachada001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/fachada001_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/fachada001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/fachada001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/fachada001_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/grupocena001.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'grupocena001.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/grupocena001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/grupocena001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/grupocena001_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/grupocena001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/grupocena001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/grupocena001_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/grupocena002.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'grupocena002.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/grupocena002_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/grupocena002_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/grupocena002_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/grupocena002_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/grupocena002_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/grupocena002_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/grupocena003.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'grupocena003.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/grupocena003_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/grupocena003_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/grupocena003_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/grupocena003_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/grupocena003_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/grupocena003_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/grupocena004.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'grupocena004.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/grupocena004_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/grupocena004_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/grupocena004_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/grupocena004_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/grupocena004_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/grupocena004_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/grupopatio001.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'grupopatio001.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/grupopatio001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/grupopatio001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/grupopatio001_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/grupopatio001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/grupopatio001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/grupopatio001_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/grupopuerta002.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'grupopuerta002.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/grupopuerta002_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/grupopuerta002_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/grupopuerta002_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/grupopuerta002_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/grupopuerta002_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/grupopuerta002_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/juancosa001.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'juancosa001.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/juancosa001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/juancosa001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/juancosa001_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/juancosa001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/juancosa001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/juancosa001_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/juncal001.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'juncal001.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/juncal001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/juncal001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/juncal001_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/juncal001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/juncal001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/juncal001_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/juncal002.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'juncal002.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/juncal002_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/juncal002_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/juncal002_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/juncal002_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/juncal002_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/juncal002_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/juncal003.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'juncal003.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/juncal003_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/juncal003_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/juncal003_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/juncal003_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/juncal003_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/juncal003_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/juncal004.jpg');
+App.progressCountCurrent = 12;
+App.batchStatusString = 'juncal004.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/juncal004_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/juncal004_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/juncal004_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/juncal004_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/juncal004_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/juncal004_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/laredo001.jpg');
+App.progressCountCurrent = 13;
+App.batchStatusString = 'laredo001.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/laredo001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/laredo001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/laredo001_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/laredo001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/laredo001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/laredo001_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/manolos001.jpg');
+App.progressCountCurrent = 14;
+App.batchStatusString = 'manolos001.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/manolos001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/manolos001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/manolos001_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/manolos001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/manolos001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/manolos001_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/noche001.jpg');
+App.progressCountCurrent = 15;
+App.batchStatusString = 'noche001.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/noche001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/noche001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/noche001_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/noche001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/noche001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/noche001_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/pasaje001.jpg');
+App.progressCountCurrent = 16;
+App.batchStatusString = 'pasaje001.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/pasaje001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/pasaje001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/pasaje001_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/pasaje001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/pasaje001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/pasaje001_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/pasajehano.jpg');
+App.progressCountCurrent = 17;
+App.batchStatusString = 'pasajehano.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/pasajehano_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/pasajehano_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/pasajehano_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/pasajehano_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/pasajehano_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/pasajehano_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/paseo001.jpg');
+App.progressCountCurrent = 18;
+App.batchStatusString = 'paseo001.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/paseo001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/paseo001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/paseo001_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/paseo001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/paseo001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/paseo001_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/puntal001.jpg');
+App.progressCountCurrent = 19;
+App.batchStatusString = 'puntal001.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/puntal001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/puntal001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/images/puntal001_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/puntal001_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/puntal001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia1/thumbnails/puntal001_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

@@ -1,0 +1,10 @@
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^(.*)$ /New_Weblog/$1 [L,R=301]
+</IfModule>
+
+# END WordPress
+

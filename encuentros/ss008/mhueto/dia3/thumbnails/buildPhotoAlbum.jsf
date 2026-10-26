@@ -1,0 +1,356 @@
+App.progressCountTotal = 44;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/043.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = '043.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/043_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/043_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/043_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/043_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/043_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/043_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/042.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = '042.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/042_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/042_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/042_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/042_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/042_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/042_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/041.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = '041.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/041_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/041_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/041_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/041_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/041_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/041_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/040.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = '040.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/040_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/040_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/040_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/040_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/040_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/040_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/039.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = '039.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/039_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/039_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/039_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/039_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/039_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/039_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/038.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = '038.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/038_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/038_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/038_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/038_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/038_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/038_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/037.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = '037.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/037_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/037_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/037_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/037_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/037_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/037_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/036.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = '036.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/036_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/036_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/036_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/036_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/036_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/036_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/035.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = '035.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/035_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/035_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/035_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/035_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/035_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/035_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/034.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = '034.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/034_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/034_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/034_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/034_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/034_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/034_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/033.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = '033.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/033_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/033_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/033_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/033_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/033_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/033_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/032.jpg');
+App.progressCountCurrent = 12;
+App.batchStatusString = '032.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/032_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/032_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/032_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/032_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/032_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/032_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/031.jpg');
+App.progressCountCurrent = 13;
+App.batchStatusString = '031.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/031_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/031_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/031_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/031_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/031_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/031_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/030.jpg');
+App.progressCountCurrent = 14;
+App.batchStatusString = '030.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/030_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/030_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/030_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/030_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/030_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/030_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/029.jpg');
+App.progressCountCurrent = 15;
+App.batchStatusString = '029.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/029_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/029_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/029_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/029_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/029_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/029_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/028.jpg');
+App.progressCountCurrent = 16;
+App.batchStatusString = '028.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/028_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/028_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/028_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/028_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/028_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/028_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/027.jpg');
+App.progressCountCurrent = 17;
+App.batchStatusString = '027.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/027_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/027_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/027_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/027_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/027_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/027_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/026.jpg');
+App.progressCountCurrent = 18;
+App.batchStatusString = '026.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/026_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/026_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/026_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/026_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/026_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/026_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/025.jpg');
+App.progressCountCurrent = 19;
+App.batchStatusString = '025.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/025_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/025_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/025_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/025_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/025_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/025_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/024.jpg');
+App.progressCountCurrent = 20;
+App.batchStatusString = '024.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/024_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/024_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/024_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/024_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/024_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/024_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/023.jpg');
+App.progressCountCurrent = 21;
+App.batchStatusString = '023.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/023_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/023_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/023_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/023_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/023_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/023_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/022.jpg');
+App.progressCountCurrent = 22;
+App.batchStatusString = '022.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/022_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/022_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/022_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/022_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/022_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/022_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/021.jpg');
+App.progressCountCurrent = 23;
+App.batchStatusString = '021.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/021_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/021_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/021_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/021_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/021_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/021_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/020.jpg');
+App.progressCountCurrent = 24;
+App.batchStatusString = '020.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/020_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/020_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/020_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/020_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/020_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/020_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/019.jpg');
+App.progressCountCurrent = 25;
+App.batchStatusString = '019.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/019_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/019_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/019_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/019_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/019_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/019_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/018.jpg');
+App.progressCountCurrent = 26;
+App.batchStatusString = '018.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/018_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/018_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/018_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/018_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/018_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/018_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/017.jpg');
+App.progressCountCurrent = 27;
+App.batchStatusString = '017.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/017_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/017_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/017_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/017_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/017_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/017_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/016.jpg');
+App.progressCountCurrent = 28;
+App.batchStatusString = '016.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/016_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/016_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/016_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/016_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/016_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/016_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/015.jpg');
+App.progressCountCurrent = 29;
+App.batchStatusString = '015.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/015_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/015_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/015_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/015_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/015_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/015_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/014.jpg');
+App.progressCountCurrent = 30;
+App.batchStatusString = '014.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/014_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/014_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/014_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/014_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/014_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/014_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/013.jpg');
+App.progressCountCurrent = 31;
+App.batchStatusString = '013.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/013_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/013_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/013_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/013_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/013_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/013_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/012.jpg');
+App.progressCountCurrent = 32;
+App.batchStatusString = '012.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/012_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/012_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/012_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/012_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/012_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/012_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/011.jpg');
+App.progressCountCurrent = 33;
+App.batchStatusString = '011.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/011_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/011_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/011_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/011_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/011_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/011_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/010.jpg');
+App.progressCountCurrent = 34;
+App.batchStatusString = '010.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/010_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/010_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/010_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/010_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/010_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/010_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/009.jpg');
+App.progressCountCurrent = 35;
+App.batchStatusString = '009.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/009_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/009_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/009_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/009_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/009_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/009_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/008.jpg');
+App.progressCountCurrent = 36;
+App.batchStatusString = '008.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/008_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/008_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/008_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/008_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/008_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/008_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/007.jpg');
+App.progressCountCurrent = 37;
+App.batchStatusString = '007.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/007_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/007_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/007_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/007_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/007_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/007_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/006.jpg');
+App.progressCountCurrent = 38;
+App.batchStatusString = '006.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/006_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/006_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/006_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/006_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/006_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/006_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/005.jpg');
+App.progressCountCurrent = 39;
+App.batchStatusString = '005.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/005_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/005_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/005_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/005_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/005_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/005_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/004.jpg');
+App.progressCountCurrent = 40;
+App.batchStatusString = '004.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/004_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/004_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/004_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/004_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/004_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/004_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/003.jpg');
+App.progressCountCurrent = 41;
+App.batchStatusString = '003.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/003_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/003_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/003_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/003_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/003_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/003_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/002.jpg');
+App.progressCountCurrent = 42;
+App.batchStatusString = '002.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/002_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/002_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/002_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/002_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/002_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/002_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/001.jpg');
+App.progressCountCurrent = 43;
+App.batchStatusString = '001.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/001_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/001_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/001_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/001_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/001_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/044.jpg');
+App.progressCountCurrent = 44;
+App.batchStatusString = '044.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/044_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/044_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/images/044_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/044_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/044_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/mhueto/dia3/thumbnails/044_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';
