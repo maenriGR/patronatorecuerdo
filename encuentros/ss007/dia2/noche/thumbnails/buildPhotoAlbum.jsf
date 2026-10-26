@@ -1,0 +1,36 @@
+App.progressCountTotal = 4;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/001nosvamos.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = '001nosvamos.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/images/001nosvamos_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/images/001nosvamos_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/images/001nosvamos_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/thumbnails/001nosvamos_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/thumbnails/001nosvamos_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/thumbnails/001nosvamos_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/002plazanoche.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = '002plazanoche.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/images/002plazanoche_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/images/002plazanoche_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/images/002plazanoche_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/thumbnails/002plazanoche_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/thumbnails/002plazanoche_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/thumbnails/002plazanoche_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/003devuelta.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = '003devuelta.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/images/003devuelta_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/images/003devuelta_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/images/003devuelta_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/thumbnails/003devuelta_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/thumbnails/003devuelta_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/thumbnails/003devuelta_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/004devuelta.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = '004devuelta.jpg';
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/images/004devuelta_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/images/004devuelta_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/images/004devuelta_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/thumbnails/004devuelta_jpg.jpg') || confirm('file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/thumbnails/004devuelta_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/intercambio/Visual Page/santona/encuentros/ss007/dia2/noche/thumbnails/004devuelta_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

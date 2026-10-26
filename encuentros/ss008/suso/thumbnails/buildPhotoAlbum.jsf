@@ -1,0 +1,188 @@
+App.progressCountTotal = 23;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1167.JPG');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'HPIM1167.JPG';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1167_JPG.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1167_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1167_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1167_JPG.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1167_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1167_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1173.JPG');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'HPIM1173.JPG';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1173_JPG.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1173_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1173_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1173_JPG.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1173_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1173_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1207.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'HPIM1207.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1207_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1207_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1207_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1207_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1207_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1207_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1205.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'HPIM1205.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1205_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1205_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1205_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1205_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1205_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1205_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1204.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'HPIM1204.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1204_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1204_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1204_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1204_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1204_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1204_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1177.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'HPIM1177.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1177_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1177_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1177_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1177_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1177_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1177_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1172.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'HPIM1172.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1172_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1172_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1172_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1172_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1172_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1172_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1198.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'HPIM1198.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1198_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1198_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1198_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1198_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1198_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1198_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1174.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'HPIM1174.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1174_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1174_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1174_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1174_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1174_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1174_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1158.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'HPIM1158.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1158_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1158_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1158_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1158_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1158_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1158_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1136.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'HPIM1136.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1136_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1136_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1136_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1136_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1136_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1136_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1134.jpg');
+App.progressCountCurrent = 12;
+App.batchStatusString = 'HPIM1134.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1134_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1134_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1134_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1134_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1134_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1134_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1120.jpg');
+App.progressCountCurrent = 13;
+App.batchStatusString = 'HPIM1120.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1120_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1120_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1120_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1120_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1120_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1120_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1115.jpg');
+App.progressCountCurrent = 14;
+App.batchStatusString = 'HPIM1115.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1115_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1115_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1115_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1115_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1115_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1115_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1112.jpg');
+App.progressCountCurrent = 15;
+App.batchStatusString = 'HPIM1112.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1112_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1112_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1112_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1112_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1112_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1112_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1109.jpg');
+App.progressCountCurrent = 16;
+App.batchStatusString = 'HPIM1109.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1109_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1109_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1109_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1109_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1109_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1109_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1107.jpg');
+App.progressCountCurrent = 17;
+App.batchStatusString = 'HPIM1107.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1107_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1107_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1107_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1107_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1107_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1107_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1101.jpg');
+App.progressCountCurrent = 18;
+App.batchStatusString = 'HPIM1101.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1101_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1101_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1101_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1101_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1101_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1101_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1100.jpg');
+App.progressCountCurrent = 19;
+App.batchStatusString = 'HPIM1100.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1100_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1100_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1100_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1100_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1100_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1100_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1091.jpg');
+App.progressCountCurrent = 20;
+App.batchStatusString = 'HPIM1091.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1091_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1091_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1091_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1091_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1091_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1091_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1090.jpg');
+App.progressCountCurrent = 21;
+App.batchStatusString = 'HPIM1090.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1090_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1090_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1090_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1090_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1090_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1090_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1086.jpg');
+App.progressCountCurrent = 22;
+App.batchStatusString = 'HPIM1086.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1086_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1086_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1086_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1086_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1086_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1086_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/encuentros/ss008/suso/HPIM1215.jpg');
+App.progressCountCurrent = 23;
+App.batchStatusString = 'HPIM1215.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1215_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1215_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/images/HPIM1215_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1215_jpg.jpg') || confirm('file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1215_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/encuentros/ss008/suso/thumbnails/HPIM1215_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

@@ -1,0 +1,92 @@
+App.progressCountTotal = 11;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/alerta01.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'alerta01.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/alerta01_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/alerta01_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/alerta01_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/alerta01_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/alerta01_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/alerta01_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/alerta02.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'alerta02.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/alerta02_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/alerta02_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/alerta02_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/alerta02_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/alerta02_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/alerta02_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/alerta03.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'alerta03.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/alerta03_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/alerta03_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/alerta03_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/alerta03_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/alerta03_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/alerta03_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/alerta04.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'alerta04.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/alerta04_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/alerta04_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/alerta04_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/alerta04_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/alerta04_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/alerta04_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/alerta05.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'alerta05.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/alerta05_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/alerta05_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/alerta05_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/alerta05_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/alerta05_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/alerta05_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/alerta06.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'alerta06.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/alerta06_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/alerta06_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/alerta06_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/alerta06_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/alerta06_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/alerta06_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/diario_montanes01.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'diario_montanes01.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/diario_montanes01_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/diario_montanes01_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/diario_montanes01_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/diario_montanes01_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/diario_montanes01_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/diario_montanes01_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/diario_montanes02.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'diario_montanes02.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/diario_montanes02_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/diario_montanes02_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/diario_montanes02_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/diario_montanes02_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/diario_montanes02_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/diario_montanes02_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/diario_montanes03.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'diario_montanes03.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/diario_montanes03_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/diario_montanes03_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/diario_montanes03_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/diario_montanes03_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/diario_montanes03_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/diario_montanes03_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/diario_montanes05.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'diario_montanes05.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/diario_montanes05_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/diario_montanes05_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/diario_montanes05_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/diario_montanes05_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/diario_montanes05_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/diario_montanes05_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/diario_montanes06.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'diario_montanes06.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/diario_montanes06_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/diario_montanes06_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/images/diario_montanes06_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/diario_montanes06_jpg.jpg') || confirm('file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/diario_montanes06_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/CINCUENTENARIO/inauguracion_prensa/thumbnails/diario_montanes06_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

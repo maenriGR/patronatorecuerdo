@@ -1,0 +1,156 @@
+App.progressCountTotal = 19;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/996709_10200722487137396_465964512_n.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = '996709_10200722487137396_465964512_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/996709_10200722487137396_465964512_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/996709_10200722487137396_465964512_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/996709_10200722487137396_465964512_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/996709_10200722487137396_465964512_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/996709_10200722487137396_465964512_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/996709_10200722487137396_465964512_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/992865_450408545056028_1949255459_n.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = '992865_450408545056028_1949255459_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/992865_450408545056028_1949255459_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/992865_450408545056028_1949255459_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/992865_450408545056028_1949255459_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/992865_450408545056028_1949255459_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/992865_450408545056028_1949255459_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/992865_450408545056028_1949255459_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/972117_450862428343973_1304598716_n.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = '972117_450862428343973_1304598716_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/972117_450862428343973_1304598716_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/972117_450862428343973_1304598716_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/972117_450862428343973_1304598716_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/972117_450862428343973_1304598716_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/972117_450862428343973_1304598716_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/972117_450862428343973_1304598716_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/960268_450852731678276_409068011_n.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = '960268_450852731678276_409068011_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/960268_450852731678276_409068011_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/960268_450852731678276_409068011_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/960268_450852731678276_409068011_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/960268_450852731678276_409068011_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/960268_450852731678276_409068011_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/960268_450852731678276_409068011_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/954634_450859135010969_612736609_n.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = '954634_450859135010969_612736609_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/954634_450859135010969_612736609_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/954634_450859135010969_612736609_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/954634_450859135010969_612736609_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/954634_450859135010969_612736609_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/954634_450859135010969_612736609_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/954634_450859135010969_612736609_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/946549_450858095011073_95547738_n.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = '946549_450858095011073_95547738_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/946549_450858095011073_95547738_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/946549_450858095011073_95547738_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/946549_450858095011073_95547738_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/946549_450858095011073_95547738_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/946549_450858095011073_95547738_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/946549_450858095011073_95547738_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/946493_450849561678593_1329385851_n.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = '946493_450849561678593_1329385851_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/946493_450849561678593_1329385851_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/946493_450849561678593_1329385851_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/946493_450849561678593_1329385851_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/946493_450849561678593_1329385851_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/946493_450849561678593_1329385851_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/946493_450849561678593_1329385851_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/945716_450851335011749_1887089848_n.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = '945716_450851335011749_1887089848_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/945716_450851335011749_1887089848_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/945716_450851335011749_1887089848_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/945716_450851335011749_1887089848_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/945716_450851335011749_1887089848_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/945716_450851335011749_1887089848_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/945716_450851335011749_1887089848_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/945182_450862895010593_333753350_n.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = '945182_450862895010593_333753350_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/945182_450862895010593_333753350_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/945182_450862895010593_333753350_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/945182_450862895010593_333753350_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/945182_450862895010593_333753350_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/945182_450862895010593_333753350_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/945182_450862895010593_333753350_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/944787_450408695056013_614855119_n.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = '944787_450408695056013_614855119_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/944787_450408695056013_614855119_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/944787_450408695056013_614855119_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/944787_450408695056013_614855119_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/944787_450408695056013_614855119_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/944787_450408695056013_614855119_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/944787_450408695056013_614855119_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/931450_450863271677222_2045254946_n.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = '931450_450863271677222_2045254946_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/931450_450863271677222_2045254946_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/931450_450863271677222_2045254946_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/931450_450863271677222_2045254946_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/931450_450863271677222_2045254946_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/931450_450863271677222_2045254946_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/931450_450863271677222_2045254946_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/922790_450408948389321_1027307766_n.jpg');
+App.progressCountCurrent = 12;
+App.batchStatusString = '922790_450408948389321_1027307766_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/922790_450408948389321_1027307766_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/922790_450408948389321_1027307766_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/922790_450408948389321_1027307766_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/922790_450408948389321_1027307766_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/922790_450408948389321_1027307766_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/922790_450408948389321_1027307766_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/10798_10200722490497480_1340294350_n.jpg');
+App.progressCountCurrent = 13;
+App.batchStatusString = '10798_10200722490497480_1340294350_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/10798_10200722490497480_1340294350_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/10798_10200722490497480_1340294350_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/10798_10200722490497480_1340294350_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/10798_10200722490497480_1340294350_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/10798_10200722490497480_1340294350_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/10798_10200722490497480_1340294350_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/10550_450859368344279_689948124_n.jpg');
+App.progressCountCurrent = 14;
+App.batchStatusString = '10550_450859368344279_689948124_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/10550_450859368344279_689948124_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/10550_450859368344279_689948124_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/10550_450859368344279_689948124_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/10550_450859368344279_689948124_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/10550_450859368344279_689948124_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/10550_450859368344279_689948124_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/8815_450876588342557_2120882429_n.jpg');
+App.progressCountCurrent = 15;
+App.batchStatusString = '8815_450876588342557_2120882429_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/8815_450876588342557_2120882429_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/8815_450876588342557_2120882429_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/8815_450876588342557_2120882429_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/8815_450876588342557_2120882429_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/8815_450876588342557_2120882429_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/8815_450876588342557_2120882429_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/8669_450858311677718_411246954_n.jpg');
+App.progressCountCurrent = 16;
+App.batchStatusString = '8669_450858311677718_411246954_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/8669_450858311677718_411246954_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/8669_450858311677718_411246954_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/8669_450858311677718_411246954_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/8669_450858311677718_411246954_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/8669_450858311677718_411246954_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/8669_450858311677718_411246954_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/7078_10200722492977542_519875773_n.jpg');
+App.progressCountCurrent = 17;
+App.batchStatusString = '7078_10200722492977542_519875773_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/7078_10200722492977542_519875773_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/7078_10200722492977542_519875773_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/7078_10200722492977542_519875773_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/7078_10200722492977542_519875773_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/7078_10200722492977542_519875773_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/7078_10200722492977542_519875773_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/8468_10200963754563561_1650398345_n.jpg');
+App.progressCountCurrent = 18;
+App.batchStatusString = '8468_10200963754563561_1650398345_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/8468_10200963754563561_1650398345_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/8468_10200963754563561_1650398345_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/8468_10200963754563561_1650398345_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/8468_10200963754563561_1650398345_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/8468_10200963754563561_1650398345_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/8468_10200963754563561_1650398345_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/1001464_10200722491337501_1332386100_n.jpg');
+App.progressCountCurrent = 19;
+App.batchStatusString = '1001464_10200722491337501_1332386100_n.jpg';
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/1001464_10200722491337501_1332386100_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/1001464_10200722491337501_1332386100_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/images/1001464_10200722491337501_1332386100_n_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/1001464_10200722491337501_1332386100_n_jpg.jpg') || confirm('file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/1001464_10200722491337501_1332386100_n_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///L|/Visual Page/santona/TURISMO/quedada/sarabia/thumbnails/1001464_10200722491337501_1332386100_n_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

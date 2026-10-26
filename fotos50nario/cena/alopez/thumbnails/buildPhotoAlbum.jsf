@@ -1,0 +1,844 @@
+App.progressCountTotal = 105;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/039.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = '039.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/039_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/039_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/039_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/039_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/039_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/039_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/038.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = '038.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/038_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/038_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/038_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/038_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/038_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/038_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/037.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = '037.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/037_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/037_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/037_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/037_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/037_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/037_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/036.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = '036.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/036_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/036_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/036_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/036_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/036_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/036_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/034.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = '034.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/034_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/034_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/034_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/034_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/034_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/034_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/033.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = '033.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/033_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/033_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/033_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/033_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/033_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/033_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0199.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = '0199.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0199_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0199_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0199_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0199_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0199_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0199_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0200.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = '0200.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0200_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0200_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0200_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0200_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0200_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0200_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0201.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = '0201.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0201_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0201_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0201_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0201_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0201_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0201_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0203.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = '0203.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0203_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0203_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0203_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0203_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0203_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0203_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0202.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = '0202.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0202_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0202_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0202_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0202_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0202_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0202_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0204.jpg');
+App.progressCountCurrent = 12;
+App.batchStatusString = '0204.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0204_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0204_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0204_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0204_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0204_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0204_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0209.jpg');
+App.progressCountCurrent = 13;
+App.batchStatusString = '0209.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0209_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0209_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0209_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0209_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0209_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0209_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0208.jpg');
+App.progressCountCurrent = 14;
+App.batchStatusString = '0208.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0208_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0208_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0208_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0208_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0208_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0208_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0207.jpg');
+App.progressCountCurrent = 15;
+App.batchStatusString = '0207.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0207_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0207_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0207_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0207_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0207_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0207_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0206.jpg');
+App.progressCountCurrent = 16;
+App.batchStatusString = '0206.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0206_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0206_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0206_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0206_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0206_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0206_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0205.jpg');
+App.progressCountCurrent = 17;
+App.batchStatusString = '0205.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0205_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0205_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0205_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0205_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0205_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0205_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0210.jpg');
+App.progressCountCurrent = 18;
+App.batchStatusString = '0210.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0210_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0210_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0210_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0210_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0210_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0210_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0221.jpg');
+App.progressCountCurrent = 19;
+App.batchStatusString = '0221.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0221_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0221_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0221_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0221_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0221_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0221_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0220.jpg');
+App.progressCountCurrent = 20;
+App.batchStatusString = '0220.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0220_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0220_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0220_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0220_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0220_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0220_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0219.jpg');
+App.progressCountCurrent = 21;
+App.batchStatusString = '0219.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0219_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0219_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0219_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0219_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0219_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0219_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0218.jpg');
+App.progressCountCurrent = 22;
+App.batchStatusString = '0218.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0218_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0218_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0218_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0218_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0218_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0218_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0217.jpg');
+App.progressCountCurrent = 23;
+App.batchStatusString = '0217.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0217_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0217_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0217_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0217_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0217_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0217_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0216.jpg');
+App.progressCountCurrent = 24;
+App.batchStatusString = '0216.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0216_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0216_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0216_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0216_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0216_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0216_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0215.jpg');
+App.progressCountCurrent = 25;
+App.batchStatusString = '0215.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0215_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0215_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0215_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0215_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0215_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0215_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0214.jpg');
+App.progressCountCurrent = 26;
+App.batchStatusString = '0214.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0214_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0214_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0214_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0214_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0214_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0214_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0213.jpg');
+App.progressCountCurrent = 27;
+App.batchStatusString = '0213.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0213_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0213_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0213_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0213_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0213_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0213_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0212.jpg');
+App.progressCountCurrent = 28;
+App.batchStatusString = '0212.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0212_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0212_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0212_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0212_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0212_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0212_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0211.jpg');
+App.progressCountCurrent = 29;
+App.batchStatusString = '0211.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0211_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0211_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0211_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0211_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0211_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0211_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0222.jpg');
+App.progressCountCurrent = 30;
+App.batchStatusString = '0222.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0222_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0222_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0222_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0222_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0222_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0222_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0236.jpg');
+App.progressCountCurrent = 31;
+App.batchStatusString = '0236.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0236_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0236_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0236_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0236_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0236_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0236_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0235.jpg');
+App.progressCountCurrent = 32;
+App.batchStatusString = '0235.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0235_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0235_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0235_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0235_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0235_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0235_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0234.jpg');
+App.progressCountCurrent = 33;
+App.batchStatusString = '0234.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0234_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0234_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0234_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0234_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0234_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0234_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0233.jpg');
+App.progressCountCurrent = 34;
+App.batchStatusString = '0233.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0233_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0233_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0233_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0233_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0233_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0233_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0232.jpg');
+App.progressCountCurrent = 35;
+App.batchStatusString = '0232.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0232_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0232_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0232_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0232_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0232_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0232_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0231.jpg');
+App.progressCountCurrent = 36;
+App.batchStatusString = '0231.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0231_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0231_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0231_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0231_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0231_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0231_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0230.jpg');
+App.progressCountCurrent = 37;
+App.batchStatusString = '0230.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0230_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0230_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0230_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0230_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0230_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0230_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0229.jpg');
+App.progressCountCurrent = 38;
+App.batchStatusString = '0229.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0229_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0229_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0229_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0229_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0229_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0229_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0228.jpg');
+App.progressCountCurrent = 39;
+App.batchStatusString = '0228.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0228_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0228_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0228_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0228_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0228_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0228_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0227.jpg');
+App.progressCountCurrent = 40;
+App.batchStatusString = '0227.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0227_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0227_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0227_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0227_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0227_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0227_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0226.jpg');
+App.progressCountCurrent = 41;
+App.batchStatusString = '0226.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0226_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0226_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0226_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0226_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0226_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0226_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0225.jpg');
+App.progressCountCurrent = 42;
+App.batchStatusString = '0225.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0225_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0225_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0225_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0225_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0225_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0225_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0224.jpg');
+App.progressCountCurrent = 43;
+App.batchStatusString = '0224.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0224_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0224_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0224_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0224_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0224_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0224_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0223.jpg');
+App.progressCountCurrent = 44;
+App.batchStatusString = '0223.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0223_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0223_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0223_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0223_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0223_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0223_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0237.jpg');
+App.progressCountCurrent = 45;
+App.batchStatusString = '0237.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0237_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0237_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0237_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0237_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0237_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0237_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0251.jpg');
+App.progressCountCurrent = 46;
+App.batchStatusString = '0251.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0251_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0251_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0251_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0251_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0251_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0251_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0250.jpg');
+App.progressCountCurrent = 47;
+App.batchStatusString = '0250.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0250_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0250_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0250_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0250_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0250_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0250_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0249.jpg');
+App.progressCountCurrent = 48;
+App.batchStatusString = '0249.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0249_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0249_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0249_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0249_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0249_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0249_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0248.jpg');
+App.progressCountCurrent = 49;
+App.batchStatusString = '0248.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0248_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0248_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0248_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0248_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0248_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0248_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0247.jpg');
+App.progressCountCurrent = 50;
+App.batchStatusString = '0247.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0247_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0247_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0247_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0247_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0247_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0247_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0246.jpg');
+App.progressCountCurrent = 51;
+App.batchStatusString = '0246.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0246_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0246_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0246_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0246_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0246_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0246_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0245.jpg');
+App.progressCountCurrent = 52;
+App.batchStatusString = '0245.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0245_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0245_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0245_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0245_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0245_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0245_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0244.jpg');
+App.progressCountCurrent = 53;
+App.batchStatusString = '0244.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0244_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0244_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0244_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0244_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0244_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0244_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0243.jpg');
+App.progressCountCurrent = 54;
+App.batchStatusString = '0243.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0243_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0243_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0243_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0243_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0243_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0243_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0242.jpg');
+App.progressCountCurrent = 55;
+App.batchStatusString = '0242.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0242_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0242_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0242_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0242_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0242_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0242_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0241.jpg');
+App.progressCountCurrent = 56;
+App.batchStatusString = '0241.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0241_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0241_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0241_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0241_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0241_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0241_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0240.jpg');
+App.progressCountCurrent = 57;
+App.batchStatusString = '0240.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0240_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0240_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0240_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0240_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0240_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0240_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0239.jpg');
+App.progressCountCurrent = 58;
+App.batchStatusString = '0239.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0239_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0239_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0239_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0239_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0239_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0239_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0238.jpg');
+App.progressCountCurrent = 59;
+App.batchStatusString = '0238.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0238_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0238_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0238_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0238_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0238_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0238_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0252.jpg');
+App.progressCountCurrent = 60;
+App.batchStatusString = '0252.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0252_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0252_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0252_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0252_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0252_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0252_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0881.jpg');
+App.progressCountCurrent = 61;
+App.batchStatusString = '0881.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0881_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0881_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0881_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0881_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0881_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0881_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0265.jpg');
+App.progressCountCurrent = 62;
+App.batchStatusString = '0265.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0265_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0265_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0265_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0265_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0265_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0265_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0264.jpg');
+App.progressCountCurrent = 63;
+App.batchStatusString = '0264.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0264_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0264_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0264_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0264_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0264_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0264_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0263.jpg');
+App.progressCountCurrent = 64;
+App.batchStatusString = '0263.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0263_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0263_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0263_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0263_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0263_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0263_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0262.jpg');
+App.progressCountCurrent = 65;
+App.batchStatusString = '0262.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0262_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0262_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0262_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0262_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0262_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0262_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0261.jpg');
+App.progressCountCurrent = 66;
+App.batchStatusString = '0261.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0261_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0261_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0261_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0261_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0261_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0261_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0260.jpg');
+App.progressCountCurrent = 67;
+App.batchStatusString = '0260.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0260_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0260_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0260_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0260_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0260_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0260_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0259.jpg');
+App.progressCountCurrent = 68;
+App.batchStatusString = '0259.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0259_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0259_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0259_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0259_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0259_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0259_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0258.jpg');
+App.progressCountCurrent = 69;
+App.batchStatusString = '0258.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0258_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0258_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0258_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0258_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0258_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0258_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0257.jpg');
+App.progressCountCurrent = 70;
+App.batchStatusString = '0257.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0257_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0257_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0257_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0257_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0257_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0257_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0256.jpg');
+App.progressCountCurrent = 71;
+App.batchStatusString = '0256.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0256_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0256_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0256_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0256_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0256_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0256_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0255.jpg');
+App.progressCountCurrent = 72;
+App.batchStatusString = '0255.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0255_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0255_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0255_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0255_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0255_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0255_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0254.jpg');
+App.progressCountCurrent = 73;
+App.batchStatusString = '0254.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0254_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0254_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0254_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0254_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0254_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0254_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0253.jpg');
+App.progressCountCurrent = 74;
+App.batchStatusString = '0253.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0253_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0253_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0253_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0253_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0253_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0253_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0882.jpg');
+App.progressCountCurrent = 75;
+App.batchStatusString = '0882.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0882_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0882_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0882_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0882_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0882_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0882_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0897.jpg');
+App.progressCountCurrent = 76;
+App.batchStatusString = '0897.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0897_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0897_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0897_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0897_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0897_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0897_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0896.jpg');
+App.progressCountCurrent = 77;
+App.batchStatusString = '0896.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0896_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0896_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0896_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0896_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0896_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0896_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0895.jpg');
+App.progressCountCurrent = 78;
+App.batchStatusString = '0895.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0895_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0895_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0895_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0895_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0895_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0895_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0894.jpg');
+App.progressCountCurrent = 79;
+App.batchStatusString = '0894.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0894_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0894_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0894_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0894_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0894_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0894_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0893.jpg');
+App.progressCountCurrent = 80;
+App.batchStatusString = '0893.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0893_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0893_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0893_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0893_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0893_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0893_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0892.jpg');
+App.progressCountCurrent = 81;
+App.batchStatusString = '0892.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0892_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0892_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0892_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0892_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0892_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0892_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0891.jpg');
+App.progressCountCurrent = 82;
+App.batchStatusString = '0891.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0891_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0891_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0891_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0891_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0891_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0891_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0890.jpg');
+App.progressCountCurrent = 83;
+App.batchStatusString = '0890.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0890_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0890_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0890_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0890_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0890_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0890_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0889.jpg');
+App.progressCountCurrent = 84;
+App.batchStatusString = '0889.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0889_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0889_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0889_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0889_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0889_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0889_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0888.jpg');
+App.progressCountCurrent = 85;
+App.batchStatusString = '0888.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0888_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0888_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0888_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0888_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0888_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0888_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0886.jpg');
+App.progressCountCurrent = 86;
+App.batchStatusString = '0886.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0886_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0886_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0886_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0886_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0886_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0886_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0884.jpg');
+App.progressCountCurrent = 87;
+App.batchStatusString = '0884.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0884_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0884_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0884_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0884_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0884_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0884_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0883.jpg');
+App.progressCountCurrent = 88;
+App.batchStatusString = '0883.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0883_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0883_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0883_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0883_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0883_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0883_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0898.jpg');
+App.progressCountCurrent = 89;
+App.batchStatusString = '0898.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0898_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0898_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0898_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0898_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0898_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0898_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0485.jpg');
+App.progressCountCurrent = 90;
+App.batchStatusString = '0485.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0485_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0485_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0485_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0485_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0485_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0485_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0487.jpg');
+App.progressCountCurrent = 91;
+App.batchStatusString = '0487.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0487_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0487_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0487_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0487_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0487_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0487_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0912.jpg');
+App.progressCountCurrent = 92;
+App.batchStatusString = '0912.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0912_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0912_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0912_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0912_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0912_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0912_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0911.jpg');
+App.progressCountCurrent = 93;
+App.batchStatusString = '0911.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0911_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0911_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0911_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0911_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0911_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0911_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0910.jpg');
+App.progressCountCurrent = 94;
+App.batchStatusString = '0910.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0910_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0910_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0910_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0910_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0910_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0910_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0909.jpg');
+App.progressCountCurrent = 95;
+App.batchStatusString = '0909.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0909_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0909_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0909_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0909_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0909_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0909_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0908.jpg');
+App.progressCountCurrent = 96;
+App.batchStatusString = '0908.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0908_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0908_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0908_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0908_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0908_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0908_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0907.jpg');
+App.progressCountCurrent = 97;
+App.batchStatusString = '0907.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0907_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0907_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0907_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0907_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0907_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0907_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0906.jpg');
+App.progressCountCurrent = 98;
+App.batchStatusString = '0906.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0906_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0906_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0906_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0906_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0906_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0906_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0905.jpg');
+App.progressCountCurrent = 99;
+App.batchStatusString = '0905.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0905_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0905_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0905_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0905_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0905_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0905_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0904.jpg');
+App.progressCountCurrent = 100;
+App.batchStatusString = '0904.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0904_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0904_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0904_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0904_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0904_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0904_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0903.jpg');
+App.progressCountCurrent = 101;
+App.batchStatusString = '0903.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0903_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0903_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0903_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0903_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0903_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0903_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0902.jpg');
+App.progressCountCurrent = 102;
+App.batchStatusString = '0902.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0902_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0902_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0902_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0902_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0902_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0902_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0901.jpg');
+App.progressCountCurrent = 103;
+App.batchStatusString = '0901.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0901_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0901_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0901_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0901_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0901_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0901_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0900.jpg');
+App.progressCountCurrent = 104;
+App.batchStatusString = '0900.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0900_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0900_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0900_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0900_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0900_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0900_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/0899.jpg');
+App.progressCountCurrent = 105;
+App.batchStatusString = '0899.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0899_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0899_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/images/0899_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0899_jpg.jpg') || confirm('file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0899_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/fotos50nario/cena/nacho/thumbnails/0899_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

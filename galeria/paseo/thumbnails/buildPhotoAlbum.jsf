@@ -1,0 +1,604 @@
+App.progressCountTotal = 75;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/farocaballo.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'farocaballo.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/farocaballo_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/farocaballo_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/farocaballo_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/farocaballo_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/farocaballo_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/farocaballo_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/marisma.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'marisma.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/marisma_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/marisma_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/marisma_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/marisma_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/marisma_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/marisma_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/montehano.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'montehano.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/montehano_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/montehano_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/montehano_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/montehano_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/montehano_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/montehano_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/montenieve.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'montenieve.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/montenieve_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/montenieve_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/montenieve_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/montenieve_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/montenieve_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/montenieve_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/napoleon.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'napoleon.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/napoleon_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/napoleon_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/napoleon_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/napoleon_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/napoleon_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/napoleon_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/pabellones.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'pabellones.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/pabellones_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/pabellones_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/pabellones_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pabellones_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pabellones_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pabellones_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/palmeras.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'palmeras.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/palmeras_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/palmeras_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/palmeras_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/palmeras_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/palmeras_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/palmeras_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/parque.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'parque.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/parque_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/parque_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/parque_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/parque_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/parque_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/parque_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/patro.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'patro.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/patro_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/patro_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/patro_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/patro_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/patro_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/patro_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/pescado.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'pescado.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/pescado_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/pescado_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/pescado_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pescado_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pescado_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pescado_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/faropescador.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'faropescador.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/faropescador_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/faropescador_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/faropescador_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/faropescador_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/faropescador_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/faropescador_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/pesquero.jpg');
+App.progressCountCurrent = 12;
+App.batchStatusString = 'pesquero.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/pesquero_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/pesquero_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/pesquero_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pesquero_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pesquero_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pesquero_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/pesquero2.jpg');
+App.progressCountCurrent = 13;
+App.batchStatusString = 'pesquero2.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/pesquero2_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/pesquero2_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/pesquero2_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pesquero2_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pesquero2_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pesquero2_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/puntal01.jpg');
+App.progressCountCurrent = 14;
+App.batchStatusString = 'puntal01.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/puntal01_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/puntal01_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/puntal01_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/puntal01_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/puntal01_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/puntal01_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/ria.jpg');
+App.progressCountCurrent = 15;
+App.batchStatusString = 'ria.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/ria_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/ria_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/ria_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/ria_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/ria_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/ria_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/sanantonio.jpg');
+App.progressCountCurrent = 16;
+App.batchStatusString = 'sanantonio.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/sanantonio_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/sanantonio_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/sanantonio_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sanantonio_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sanantonio_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sanantonio_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/sanantonio2.jpg');
+App.progressCountCurrent = 17;
+App.batchStatusString = 'sanantonio2.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/sanantonio2_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/sanantonio2_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/sanantonio2_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sanantonio2_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sanantonio2_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sanantonio2_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/sancarlos.jpg');
+App.progressCountCurrent = 18;
+App.batchStatusString = 'sancarlos.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/sancarlos_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/sancarlos_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/sancarlos_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sancarlos_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sancarlos_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sancarlos_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/sancarlos2.jpg');
+App.progressCountCurrent = 19;
+App.batchStatusString = 'sancarlos2.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/sancarlos2_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/sancarlos2_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/sancarlos2_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sancarlos2_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sancarlos2_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sancarlos2_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/sanmartin.jpg');
+App.progressCountCurrent = 20;
+App.batchStatusString = 'sanmartin.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/sanmartin_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/sanmartin_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/sanmartin_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sanmartin_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sanmartin_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sanmartin_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/santona2.jpg');
+App.progressCountCurrent = 21;
+App.batchStatusString = 'santona2.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/santona2_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/santona2_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/santona2_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/santona2_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/santona2_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/santona2_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/tresbes.jpg');
+App.progressCountCurrent = 22;
+App.batchStatusString = 'tresbes.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/tresbes_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/tresbes_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/tresbes_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/tresbes_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/tresbes_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/tresbes_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/acantilado.jpg');
+App.progressCountCurrent = 23;
+App.batchStatusString = 'acantilado.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/acantilado_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/acantilado_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/acantilado_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/acantilado_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/acantilado_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/acantilado_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/buciero.jpg');
+App.progressCountCurrent = 24;
+App.batchStatusString = 'buciero.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/buciero_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/buciero_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/buciero_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/buciero_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/buciero_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/buciero_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/buciero06.jpg');
+App.progressCountCurrent = 25;
+App.batchStatusString = 'buciero06.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/buciero06_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/buciero06_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/buciero06_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/buciero06_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/buciero06_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/buciero06_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/buciero0106.jpg');
+App.progressCountCurrent = 26;
+App.batchStatusString = 'buciero0106.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/buciero0106_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/buciero0106_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/buciero0106_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/buciero0106_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/buciero0106_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/buciero0106_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/buciero0206.jpg');
+App.progressCountCurrent = 27;
+App.batchStatusString = 'buciero0206.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/buciero0206_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/buciero0206_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/buciero0206_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/buciero0206_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/buciero0206_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/buciero0206_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/cofradia.jpg');
+App.progressCountCurrent = 28;
+App.batchStatusString = 'cofradia.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/cofradia_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/cofradia_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/cofradia_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/cofradia_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/cofradia_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/cofradia_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/acueva.jpg');
+App.progressCountCurrent = 29;
+App.batchStatusString = 'acueva.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/acueva_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/acueva_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/acueva_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/acueva_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/acueva_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/acueva_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/dueso.jpg');
+App.progressCountCurrent = 30;
+App.batchStatusString = 'dueso.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/dueso_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/dueso_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/dueso_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/dueso_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/dueso_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/dueso_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/apartamentos.JPG');
+App.progressCountCurrent = 31;
+App.batchStatusString = 'apartamentos.JPG';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/apartamentos_JPG.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/apartamentos_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/apartamentos_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/apartamentos_JPG.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/apartamentos_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/apartamentos_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/pescando.JPG');
+App.progressCountCurrent = 32;
+App.batchStatusString = 'pescando.JPG';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/pescando_JPG.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/pescando_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/pescando_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pescando_JPG.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pescando_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pescando_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/acantilado02.JPG');
+App.progressCountCurrent = 33;
+App.batchStatusString = 'acantilado02.JPG';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/acantilado02_JPG.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/acantilado02_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/acantilado02_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/acantilado02_JPG.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/acantilado02_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/acantilado02_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/pasaje.JPG');
+App.progressCountCurrent = 34;
+App.batchStatusString = 'pasaje.JPG';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/pasaje_JPG.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/pasaje_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/pasaje_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pasaje_JPG.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pasaje_JPG.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pasaje_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/monumento.jpg');
+App.progressCountCurrent = 35;
+App.batchStatusString = 'monumento.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/monumento_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/monumento_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/monumento_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/monumento_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/monumento_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/monumento_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/monte.jpg');
+App.progressCountCurrent = 36;
+App.batchStatusString = 'monte.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/monte_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/monte_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/monte_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/monte_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/monte_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/monte_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/playas.jpg');
+App.progressCountCurrent = 37;
+App.batchStatusString = 'playas.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/playas_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/playas_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/playas_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/playas_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/playas_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/playas_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/puntal.jpg');
+App.progressCountCurrent = 38;
+App.batchStatusString = 'puntal.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/puntal_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/puntal_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/puntal_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/puntal_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/puntal_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/puntal_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/laredo.jpg');
+App.progressCountCurrent = 39;
+App.batchStatusString = 'laredo.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/laredo_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/laredo_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/laredo_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/laredo_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/laredo_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/laredo_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/casona.jpg');
+App.progressCountCurrent = 40;
+App.batchStatusString = 'casona.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/casona_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/casona_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/casona_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/casona_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/casona_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/casona_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/berria01.jpg');
+App.progressCountCurrent = 41;
+App.batchStatusString = 'berria01.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/berria01_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/berria01_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/berria01_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/berria01_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/berria01_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/berria01_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/prados.jpg');
+App.progressCountCurrent = 42;
+App.batchStatusString = 'prados.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/prados_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/prados_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/prados_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/prados_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/prados_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/prados_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/5pinos.jpg');
+App.progressCountCurrent = 43;
+App.batchStatusString = '5pinos.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/5pinos_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/5pinos_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/5pinos_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/5pinos_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/5pinos_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/5pinos_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/fachada.jpg');
+App.progressCountCurrent = 44;
+App.batchStatusString = 'fachada.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/fachada_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/fachada_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/fachada_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/fachada_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/fachada_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/fachada_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/pzatoros.jpg');
+App.progressCountCurrent = 45;
+App.batchStatusString = 'pzatoros.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/pzatoros_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/pzatoros_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/pzatoros_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pzatoros_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pzatoros_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pzatoros_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/cofradia02.jpg');
+App.progressCountCurrent = 46;
+App.batchStatusString = 'cofradia02.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/cofradia02_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/cofradia02_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/cofradia02_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/cofradia02_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/cofradia02_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/cofradia02_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/barcos.jpg');
+App.progressCountCurrent = 47;
+App.batchStatusString = 'barcos.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/barcos_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/barcos_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/barcos_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/barcos_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/barcos_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/barcos_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/montenieve02.jpg');
+App.progressCountCurrent = 48;
+App.batchStatusString = 'montenieve02.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/montenieve02_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/montenieve02_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/montenieve02_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/montenieve02_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/montenieve02_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/montenieve02_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/nasa.jpg');
+App.progressCountCurrent = 49;
+App.batchStatusString = 'nasa.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/nasa_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/nasa_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/nasa_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/nasa_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/nasa_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/nasa_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/puerto.jpg');
+App.progressCountCurrent = 50;
+App.batchStatusString = 'puerto.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/puerto_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/puerto_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/puerto_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/puerto_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/puerto_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/puerto_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/puerto02.jpg');
+App.progressCountCurrent = 51;
+App.batchStatusString = 'puerto02.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/puerto02_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/puerto02_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/puerto02_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/puerto02_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/puerto02_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/puerto02_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/casamarques.jpg');
+App.progressCountCurrent = 52;
+App.batchStatusString = 'casamarques.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/casamarques_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/casamarques_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/casamarques_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/casamarques_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/casamarques_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/casamarques_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/mercado.jpg');
+App.progressCountCurrent = 53;
+App.batchStatusString = 'mercado.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/mercado_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/mercado_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/mercado_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/mercado_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/mercado_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/mercado_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/mercado02.jpg');
+App.progressCountCurrent = 54;
+App.batchStatusString = 'mercado02.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/mercado02_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/mercado02_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/mercado02_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/mercado02_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/mercado02_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/mercado02_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/ptodepor.jpg');
+App.progressCountCurrent = 55;
+App.batchStatusString = 'ptodepor.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/ptodepor_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/ptodepor_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/ptodepor_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/ptodepor_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/ptodepor_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/ptodepor_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/sanantonio3.jpg');
+App.progressCountCurrent = 56;
+App.batchStatusString = 'sanantonio3.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/sanantonio3_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/sanantonio3_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/sanantonio3_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sanantonio3_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sanantonio3_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sanantonio3_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/instituto.jpg');
+App.progressCountCurrent = 57;
+App.batchStatusString = 'instituto.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/instituto_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/instituto_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/instituto_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/instituto_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/instituto_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/instituto_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/parroquia.jpg');
+App.progressCountCurrent = 58;
+App.batchStatusString = 'parroquia.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/parroquia_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/parroquia_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/parroquia_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/parroquia_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/parroquia_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/parroquia_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/bahia.jpg');
+App.progressCountCurrent = 59;
+App.batchStatusString = 'bahia.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/bahia_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/bahia_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/bahia_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/bahia_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/bahia_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/bahia_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/canoa.jpg');
+App.progressCountCurrent = 60;
+App.batchStatusString = 'canoa.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/canoa_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/canoa_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/canoa_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/canoa_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/canoa_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/canoa_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/perro.jpg');
+App.progressCountCurrent = 61;
+App.batchStatusString = 'perro.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/perro_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/perro_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/perro_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/perro_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/perro_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/perro_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/carrero.jpg');
+App.progressCountCurrent = 62;
+App.batchStatusString = 'carrero.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/carrero_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/carrero_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/carrero_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/carrero_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/carrero_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/carrero_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/canon.jpg');
+App.progressCountCurrent = 63;
+App.batchStatusString = 'canon.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/canon_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/canon_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/canon_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/canon_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/canon_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/canon_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/malecon.jpg');
+App.progressCountCurrent = 64;
+App.batchStatusString = 'malecon.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/malecon_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/malecon_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/malecon_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/malecon_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/malecon_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/malecon_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/sanantonio4.jpg');
+App.progressCountCurrent = 65;
+App.batchStatusString = 'sanantonio4.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/sanantonio4_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/sanantonio4_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/sanantonio4_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sanantonio4_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sanantonio4_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/sanantonio4_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/instituto01.jpg');
+App.progressCountCurrent = 66;
+App.batchStatusString = 'instituto01.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/instituto01_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/instituto01_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/instituto01_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/instituto01_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/instituto01_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/instituto01_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/virgen.jpg');
+App.progressCountCurrent = 67;
+App.batchStatusString = 'virgen.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/virgen_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/virgen_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/virgen_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/virgen_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/virgen_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/virgen_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/parroquia02.jpg');
+App.progressCountCurrent = 68;
+App.batchStatusString = 'parroquia02.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/parroquia02_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/parroquia02_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/parroquia02_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/parroquia02_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/parroquia02_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/parroquia02_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/tresbes02.jpg');
+App.progressCountCurrent = 69;
+App.batchStatusString = 'tresbes02.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/tresbes02_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/tresbes02_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/tresbes02_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/tresbes02_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/tresbes02_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/tresbes02_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/parroquia03.jpg');
+App.progressCountCurrent = 70;
+App.batchStatusString = 'parroquia03.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/parroquia03_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/parroquia03_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/parroquia03_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/parroquia03_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/parroquia03_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/parroquia03_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/parroquia04.jpg');
+App.progressCountCurrent = 71;
+App.batchStatusString = 'parroquia04.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/parroquia04_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/parroquia04_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/parroquia04_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/parroquia04_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/parroquia04_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/parroquia04_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/casa.jpg');
+App.progressCountCurrent = 72;
+App.batchStatusString = 'casa.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/casa_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/casa_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/casa_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/casa_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/casa_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/casa_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/pabellones02.jpg');
+App.progressCountCurrent = 73;
+App.batchStatusString = 'pabellones02.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/pabellones02_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/pabellones02_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/pabellones02_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pabellones02_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pabellones02_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/pabellones02_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/casa02.jpg');
+App.progressCountCurrent = 74;
+App.batchStatusString = 'casa02.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/casa02_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/casa02_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/casa02_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/casa02_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/casa02_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/casa02_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///J|/Visual Page/santona/galeria/paseo/campanas.jpg');
+App.progressCountCurrent = 75;
+App.batchStatusString = 'campanas.jpg';
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/images/campanas_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/images/campanas_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/images/campanas_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/campanas_jpg.jpg') || confirm('file:///J|/Visual Page/santona/galeria/paseo/thumbnails/campanas_jpg.jpg ya existe. Haga clic en Aceptar para reemplazar el archivo.')) 
+fw.exportDocumentAs(doc, 'file:///J|/Visual Page/santona/galeria/paseo/thumbnails/campanas_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';
